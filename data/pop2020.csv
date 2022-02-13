@@ -1,0 +1,38 @@
+id,country,population,urbanPop,worldShare,capital
+1,China,1440297825,61%,18.47%,Beijing
+2,India,1382345085,35%,17.70%,New Delhi
+3,United States,331341050,83%,4.25%,Washington
+4,Indonesia,274021604,56%,3.51%,Jakarta
+5,Brazil,212821986,88%,2.73%,Brasília
+6,Nigeria,206984347,52%,2.64%,Amsterdam
+7,Bangladesh,164972348,39%,2.11%,Dhaka
+8,Russia,145945524,74%,1.87%,Warsaw
+9,Mexico,129166028,84%,1.65%,Kuala Lumpur
+10,Philippines,109830324,47%,1.41%,Oslo
+11,Egypt,102659126,43%,1.31%,Cairo
+12,Vietnam,97490013,38%,1.25%,Hanoi
+13,Turkey,84495243,76%,1.08%,Ankara
+14,Germany,83830972,76%,1.07%,Berlin
+15,Thailand,69830779,51%,0.90%,Bangkok
+16,United Kingdom,67948282,83%,0.87%,London
+17,France,65298930,82%,0.84%,Paris
+18,Italy,60446035,69%,0.78%,Rome
+19,South Africa,59436725,67%,0.76%,Cape Town
+20,South Korea,51276977,82%,0.66%,Bloemfontein
+21,Spain,46757980,80%,0.60%,Madrid
+22,Argentina,45267449,93%,0.58%,Buenos Aires
+23,Poland,37839255,60%,0.49%,Manila
+24,Canada,37799407,81%,0.48%,Ottawa
+25,Saudi Arabia,34905942,84%,0.45%,Moscow
+26,Malaysia,32436963,78%,0.42%,Seoul
+27,Australia,25550683,86%,0.33%,Canberra
+28,Netherlands,17141544,92%,0.22%,Mexico City
+29,Belgium,11598451,98%,0.15%,Brussels
+30,Sweden,10110233,88%,0.13%,Stockholm
+31,Austria,9015361,57%,0.12%,Vienna
+32,Israel,8678517,93%,0.11%,Jerusalem
+33,Switzerland,8665615,74%,0.11%,Bern
+34,Denmark,5795780,88%,0.07%,Copenhagen
+35,Finland,5542237,86%,0.07%,Helsinki
+36,Norway,5428594,83%,0.07%,Abuja
+37,Ireland,4947267,63%,0.06%,Dublin
